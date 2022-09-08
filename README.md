@@ -8,5 +8,13 @@ Feel free to contribute!
 
 ---
 
+## Contents
+
+- Animations
+- Notifications
+- Alerts
+
+---
+
 Contact me by any questions and suggestions:
 daniel.pustotin@gmail.com or @heartsker anywhere
